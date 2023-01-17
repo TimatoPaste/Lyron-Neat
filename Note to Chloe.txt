@@ -1,0 +1,1 @@
+Hi, your class file was not compiled in the same version of java as the jre on the server. Please fix :( I cannot run it
